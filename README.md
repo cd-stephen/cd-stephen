@@ -1,4 +1,14 @@
 ### Hi there 👋
+- 💬 Ask me about ...
+   - I specialize in Cloud Architecture, Microservices Design, and DevOps practices, with a strong emphasis on Kubernetes, security, and API development.
+
+- 🔭 I’m currently working on ...
+   - gitops and workflows with argoCD
+
+- 🌱 I’m currently learning ...
+   - rust
+   - c
+
 
 <!--
 **cd-stephen/cd-stephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
