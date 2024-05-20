@@ -7,6 +7,8 @@
    - gitops and workflows with argoCD
    - 8 bit CPU from Scratch (ben eater)
 
-- 🌱 I’m currently learning ...
-   - rust
+- 🌱 Languages ...
    - c
+   - go
+   - rust
+   - python
