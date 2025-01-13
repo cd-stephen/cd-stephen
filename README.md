@@ -7,11 +7,11 @@
    - GitOps and workflows with argoCD
    - 8 bit CPU from Scratch (Ben Eater)
    - Go CLI with tview / bubbletea
+   - personal game development using raylib and go
 
 - 🌱 Languages ...
+   - go (api and application development)
    - c
    - bash
-   - go
-   - python
-   - rust
+   - python - (for microcontrollers)
   
