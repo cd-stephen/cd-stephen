@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 💬 About Me! ...
-   - I specialize in  | Cloud Architecture | Microservices Design | DevOps Automation | API Development |
+   - I specialize in  | LLM and Context Engineering | Cloud Architecture | Microservices Design | DevOps Automation | API Development |
    - with focus on | Kubernetes | Containers | Security | GitOps |
 
 - 🔭 I’m currently working on ...
